@@ -1,0 +1,7 @@
+id = "inline-sql"
+name = "Inline SQL"
+version = "0.0.1"
+schema_version = 1
+authors = ["Itamar Holtzman <itamar.holtzman@gmail.com>"]
+description = "A Zed extension that injects SQL syntax highlighting into strings in your code."
+repository = "https://github.com/itahol/zed-inline-sql"
